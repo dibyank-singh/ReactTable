@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ReactTable/static/css/main.fe85e394.chunk.css",
+    "main.js": "/ReactTable/static/js/main.6e15e224.chunk.js",
+    "main.js.map": "/ReactTable/static/js/main.6e15e224.chunk.js.map",
+    "runtime-main.js": "/ReactTable/static/js/runtime-main.09c4664b.js",
+    "runtime-main.js.map": "/ReactTable/static/js/runtime-main.09c4664b.js.map",
+    "static/js/2.c0322962.chunk.js": "/ReactTable/static/js/2.c0322962.chunk.js",
+    "static/js/2.c0322962.chunk.js.map": "/ReactTable/static/js/2.c0322962.chunk.js.map",
+    "static/js/3.dd6a8f16.chunk.js": "/ReactTable/static/js/3.dd6a8f16.chunk.js",
+    "static/js/3.dd6a8f16.chunk.js.map": "/ReactTable/static/js/3.dd6a8f16.chunk.js.map",
+    "static/js/4.44d7956d.chunk.js": "/ReactTable/static/js/4.44d7956d.chunk.js",
+    "static/js/4.44d7956d.chunk.js.map": "/ReactTable/static/js/4.44d7956d.chunk.js.map",
+    "static/js/5.2f8f033d.chunk.js": "/ReactTable/static/js/5.2f8f033d.chunk.js",
+    "static/js/5.2f8f033d.chunk.js.map": "/ReactTable/static/js/5.2f8f033d.chunk.js.map",
+    "index.html": "/ReactTable/index.html",
+    "static/css/main.fe85e394.chunk.css.map": "/ReactTable/static/css/main.fe85e394.chunk.css.map",
+    "static/js/2.c0322962.chunk.js.LICENSE.txt": "/ReactTable/static/js/2.c0322962.chunk.js.LICENSE.txt",
+    "static/js/3.dd6a8f16.chunk.js.LICENSE.txt": "/ReactTable/static/js/3.dd6a8f16.chunk.js.LICENSE.txt",
+    "static/js/4.44d7956d.chunk.js.LICENSE.txt": "/ReactTable/static/js/4.44d7956d.chunk.js.LICENSE.txt",
+    "static/js/5.2f8f033d.chunk.js.LICENSE.txt": "/ReactTable/static/js/5.2f8f033d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09c4664b.js",
+    "static/js/3.dd6a8f16.chunk.js",
+    "static/css/main.fe85e394.chunk.css",
+    "static/js/main.6e15e224.chunk.js"
+  ]
+}
