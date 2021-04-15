@@ -1,0 +1,33 @@
+[
+    {
+        "country":"Nepal",
+        "capital":"Kathmandu",
+        "currency":"Rupees"
+        
+    },
+    {
+        "country":"Bngladesh",
+        "capital":"Dhaka",
+        "currency":"Taka"
+        
+    },
+    {
+        "country":"China",
+        "capital":"Beijing",
+        "currency":"Yuan"
+        
+    },
+    {
+        "country":"Pakistan",
+        "capital":"Islamabad",
+        "currency":"Pakistani Rupee"
+        
+    },
+    
+    {
+        "country":"India",
+        "capital":"Delhi",
+        "currency":"Rupees"
+    
+    }
+]
